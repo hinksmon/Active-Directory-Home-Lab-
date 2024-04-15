@@ -7,7 +7,8 @@ This Active Directory project is aimed to start from 0 to a fully functional dom
 
 ### Skills Learned
 
-- 
+- Active Directory
+- Splunk
 
 ### Tools Used
 
