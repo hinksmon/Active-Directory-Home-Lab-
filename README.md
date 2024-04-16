@@ -7,11 +7,10 @@ This Active Directory project is aimed to start from 0 to a fully functional dom
 
 ### Skills Learned
 
-- Active Directory
-- Splunk
-
+- Add users using Active Directory
+- Install and implement Splunk into a target machiene
+- How to set up an Active Directory onto a VM
 ### Tools Used
-
 
 - Active Directory 
 - Splunk
